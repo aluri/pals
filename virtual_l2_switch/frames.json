@@ -1,0 +1,38 @@
+[
+  {
+    "ingress_port": "Gi0/1",
+    "src_mac": "00:11:22:33:44:55",
+    "dst_mac": "FF:FF:FF:FF:FF:FF",
+    "vlan": 10
+  },
+  {
+    "ingress_port": "Gi0/4",
+    "src_mac": "00:11:22:33:44:66",
+    "dst_mac": "00:11:22:33:44:55",
+    "vlan": 10
+  },
+  {
+    "ingress_port": "Gi0/2",
+    "src_mac": "AA:BB:CC:DD:EE:FF",
+    "dst_mac": "00:11:22:33:44:55",
+    "vlan": 20
+  },
+  {
+    "ingress_port": "Gi0/3",
+    "src_mac": "00:AA:00:AA:00:AA",
+    "dst_mac": "00:11:22:33:44:66",
+    "vlan": 10
+  },
+  {
+    "ingress_port": "Gi0/3",
+    "src_mac": "00:30:00:30:00:30",
+    "dst_mac": "FF:FF:FF:FF:FF:FF",
+    "vlan": 30
+  },
+  {
+    "ingress_port": "Gi0/1",
+    "src_mac": "00:11:22:33:44:55",
+    "dst_mac": "AA:BB:CC:DD:EE:FF",
+    "vlan": 20
+  }
+]

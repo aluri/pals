@@ -1,0 +1,14 @@
+[
+  {
+    "vlan_id": 10,
+    "name": "DATA"
+  },
+  {
+    "vlan_id": 20,
+    "name": "VOICE"
+  },
+  {
+    "vlan_id": 30,
+    "name": "MGMT"
+  }
+]

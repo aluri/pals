@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Gi0/1",
+    "admin_state": "up",
+    "oper_state": "up",
+    "mode": "access",
+    "vlan": 10,
+    "rx_frames": 0,
+    "tx_frames": 0
+  },
+  {
+    "name": "Gi0/2",
+    "admin_state": "up",
+    "oper_state": "up",
+    "mode": "access",
+    "vlan": 20,
+    "rx_frames": 0,
+    "tx_frames": 0
+  },
+  {
+    "name": "Gi0/3",
+    "admin_state": "up",
+    "oper_state": "up",
+    "mode": "trunk",
+    "allowed_vlans": [10, 20, 30],
+    "rx_frames": 0,
+    "tx_frames": 0
+  },
+  {
+    "name": "Gi0/4",
+    "admin_state": "up",
+    "oper_state": "up",
+    "mode": "access",
+    "vlan": 10,
+    "rx_frames": 0,
+    "tx_frames": 0
+  },
+  {
+    "name": "Gi0/5",
+    "admin_state": "down",
+    "oper_state": "down",
+    "mode": "access",
+    "vlan": 30,
+    "rx_frames": 0,
+    "tx_frames": 0
+  }
+]
