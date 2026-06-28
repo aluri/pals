@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "qname": "www.example.com",
+    "qtype": "A"
+  },
+  {
+    "id": 2,
+    "qname": "blog.example.com",
+    "qtype": "A"
+  },
+  {
+    "id": 3,
+    "qname": "unknown.example.com",
+    "qtype": "A"
+  },
+  {
+    "id": 4,
+    "qname": "example.com",
+    "qtype": "MX"
+  },
+  {
+    "id": 5,
+    "qname": "example.com",
+    "qtype": "NS"
+  },
+  {
+    "id": 6,
+    "qname": "www.example.com",
+    "qtype": "AAAA"
+  },
+  {
+    "id": 7,
+    "qname": "host.wild.example.com",
+    "qtype": "A"
+  },
+  {
+    "id": 8,
+    "qname": "loop1.example.com",
+    "qtype": "A"
+  },
+  {
+    "id": 9,
+    "qname": "api.example.com",
+    "qtype": "A"
+  }
+]
