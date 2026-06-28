@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "action": "allow",
+    "protocol": "tcp",
+    "src": "10.0.0.0/24",
+    "dst": "any",
+    "dst_port": 443,
+    "stateful": true
+  },
+  {
+    "id": 2,
+    "action": "allow",
+    "protocol": "tcp",
+    "src": "10.0.0.0/24",
+    "dst": "any",
+    "dst_port": 80,
+    "stateful": true
+  },
+  {
+    "id": 3,
+    "action": "deny",
+    "protocol": "any",
+    "src": "any",
+    "dst": "any"
+  }
+]
